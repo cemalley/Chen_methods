@@ -1,4 +1,5 @@
 # Bulk RNASeq analysis pipeline: FASTQ combining from different lanes, TRIMMOMATIC, STAR, HTSeq-count, DESeq2, pathway enrichment analysis with Enrichr (see enrichr.R) and REVIGO, linear regression models, and various plots of specific genes
+# Now featuring a parallelized DESeq2 DE function!
 # Claire Malley 2018
 # NCATS NIH
 
